@@ -1,0 +1,13 @@
+# Node.js / React
+node_modules/
+
+# Build o compilación
+dist/
+build/
+
+# Variables de entorno
+.env.development
+.env.production
+
+# Logs
+*.log
